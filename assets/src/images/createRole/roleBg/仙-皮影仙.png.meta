@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "820265f1-8801-4785-ab9e-6f84da43ddce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "仙-皮影仙": {
+      "ver": "1.0.3",
+      "uuid": "abc69765-0d83-4a0b-b53a-d661459bba49",
+      "rawTextureUuid": "820265f1-8801-4785-ab9e-6f84da43ddce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 205,
+      "offsetY": -146,
+      "trimX": 410,
+      "trimY": 292,
+      "width": 363,
+      "height": 424,
+      "rawWidth": 773,
+      "rawHeight": 716,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

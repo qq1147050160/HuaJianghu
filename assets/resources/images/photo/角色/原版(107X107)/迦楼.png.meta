@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "58d0e31b-6cfd-4f23-a250-e0ff6727b8a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "迦楼": {
+      "ver": "1.0.3",
+      "uuid": "939e0992-6419-4d1d-bb64-027bcbb0ac12",
+      "rawTextureUuid": "58d0e31b-6cfd-4f23-a250-e0ff6727b8a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 107,
+      "rawWidth": 107,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

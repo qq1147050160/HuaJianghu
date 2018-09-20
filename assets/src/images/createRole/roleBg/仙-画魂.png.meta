@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a91c2a6e-d3fd-41c6-9b89-77ed1fb6bfb6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "仙-画魂": {
+      "ver": "1.0.3",
+      "uuid": "aa1c7c88-e628-4ab0-82a9-c448cde4a292",
+      "rawTextureUuid": "a91c2a6e-d3fd-41c6-9b89-77ed1fb6bfb6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 174,
+      "offsetY": -179.5,
+      "trimX": 348,
+      "trimY": 359,
+      "width": 396,
+      "height": 365,
+      "rawWidth": 744,
+      "rawHeight": 724,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

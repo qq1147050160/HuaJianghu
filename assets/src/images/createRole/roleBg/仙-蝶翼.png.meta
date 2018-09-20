@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7cb26931-c434-4e2a-b1c7-bccbfae4e991",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "仙-蝶翼": {
+      "ver": "1.0.3",
+      "uuid": "b51198be-bbb3-4aed-be35-098b41b03273",
+      "rawTextureUuid": "7cb26931-c434-4e2a-b1c7-bccbfae4e991",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 220,
+      "offsetY": -133,
+      "trimX": 440,
+      "trimY": 266,
+      "width": 350,
+      "height": 479,
+      "rawWidth": 790,
+      "rawHeight": 745,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

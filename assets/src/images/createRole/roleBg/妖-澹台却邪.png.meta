@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c2d636ed-476f-4997-a2c0-d3da4187b262",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "妖-澹台却邪": {
+      "ver": "1.0.3",
+      "uuid": "851bda2c-a834-4540-9005-7d38d8406376",
+      "rawTextureUuid": "c2d636ed-476f-4997-a2c0-d3da4187b262",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 185,
+      "offsetY": -158.5,
+      "trimX": 370,
+      "trimY": 317,
+      "width": 381,
+      "height": 447,
+      "rawWidth": 751,
+      "rawHeight": 764,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

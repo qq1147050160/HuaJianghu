@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1c8a44c0-a339-425a-8961-494263e6ac0e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "仙-玄天姬": {
+      "ver": "1.0.3",
+      "uuid": "9e14b738-6dbd-4492-b8e1-acbd4eeb0d0f",
+      "rawTextureUuid": "1c8a44c0-a339-425a-8961-494263e6ac0e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 187,
+      "offsetY": -132,
+      "trimX": 374,
+      "trimY": 264,
+      "width": 381,
+      "height": 422,
+      "rawWidth": 755,
+      "rawHeight": 686,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "576a3db6-aeb1-41bf-9ffb-7d379db17413",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "仙-曼珠沙华": {
+      "ver": "1.0.3",
+      "uuid": "5e74f931-516d-41aa-a09a-df6ebb00b223",
+      "rawTextureUuid": "576a3db6-aeb1-41bf-9ffb-7d379db17413",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 52,
+      "offsetY": -64.5,
+      "trimX": 104,
+      "trimY": 129,
+      "width": 518,
+      "height": 453,
+      "rawWidth": 622,
+      "rawHeight": 582,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

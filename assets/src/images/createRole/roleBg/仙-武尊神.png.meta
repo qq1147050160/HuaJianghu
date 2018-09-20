@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0050285a-e491-4780-a359-6d0c71198f06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "仙-武尊神": {
+      "ver": "1.0.3",
+      "uuid": "661359ab-4d9d-4f50-be06-f0812b731827",
+      "rawTextureUuid": "0050285a-e491-4780-a359-6d0c71198f06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 196,
+      "offsetY": -129,
+      "trimX": 392,
+      "trimY": 258,
+      "width": 359,
+      "height": 485,
+      "rawWidth": 751,
+      "rawHeight": 743,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

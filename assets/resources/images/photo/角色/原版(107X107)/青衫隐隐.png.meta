@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8e0a2619-dca3-4315-bc6d-a91acdacfbff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "青衫隐隐": {
+      "ver": "1.0.3",
+      "uuid": "93117357-f0e4-4e19-bc62-5e1e506d10a1",
+      "rawTextureUuid": "8e0a2619-dca3-4315-bc6d-a91acdacfbff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 107,
+      "rawWidth": 107,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

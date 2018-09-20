@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7e7c1000-aa67-428a-823d-3b54ce3ec5ea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "红蔷": {
+      "ver": "1.0.3",
+      "uuid": "98e43951-f2b9-48fa-ac0a-d1e9d29341bc",
+      "rawTextureUuid": "7e7c1000-aa67-428a-823d-3b54ce3ec5ea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 107,
+      "rawWidth": 107,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

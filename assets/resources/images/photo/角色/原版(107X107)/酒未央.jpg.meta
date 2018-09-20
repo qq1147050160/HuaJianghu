@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "da6a2557-f474-42c6-ad8f-37f85ba6f8db",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "酒未央": {
+      "ver": "1.0.3",
+      "uuid": "a05dd2ef-ee01-451c-bf47-cdce77abe963",
+      "rawTextureUuid": "da6a2557-f474-42c6-ad8f-37f85ba6f8db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 107,
+      "rawWidth": 107,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b14f798c-c340-459c-9ee1-ec01d8c4066e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "巫-酒未央": {
+      "ver": "1.0.3",
+      "uuid": "03a9ff80-39be-448d-862d-1c2d90f5d039",
+      "rawTextureUuid": "b14f798c-c340-459c-9ee1-ec01d8c4066e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 215,
+      "offsetY": -115.5,
+      "trimX": 430,
+      "trimY": 231,
+      "width": 335,
+      "height": 513,
+      "rawWidth": 765,
+      "rawHeight": 744,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

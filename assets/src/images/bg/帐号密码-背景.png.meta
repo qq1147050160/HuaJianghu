@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "dd02bf6a-b374-42ca-848a-19874f8f16b0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "帐号密码-背景": {
+      "ver": "1.0.3",
+      "uuid": "6d9236a2-30e0-45cf-b6fd-5dfe7fcceccb",
+      "rawTextureUuid": "dd02bf6a-b374-42ca-848a-19874f8f16b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 13,
+      "offsetY": -6.5,
+      "trimX": 26,
+      "trimY": 13,
+      "width": 737,
+      "height": 436,
+      "rawWidth": 763,
+      "rawHeight": 449,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

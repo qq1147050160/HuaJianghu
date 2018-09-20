@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "密罗-站立-右",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "36612dad-f141-48da-965f-6cd95174ac5f"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "327edd24-760d-44c2-9522-aa80381e787a"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "c396963f-9197-4c20-844d-794b6d97296a"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "b0373dac-3755-4b39-a5d7-a5e80d45edcc"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b6bba562-9c87-407d-988a-7e31af3f0d5e"
+            }
+          },
+          {
+            "frame": 0.625,
+            "value": {
+              "__uuid__": "a4566379-71b9-4c0e-a07d-bc31b16a30fe"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "2bf21cb1-6d78-4b58-ab69-19825f70b6bc"
+            }
+          },
+          {
+            "frame": 0.875,
+            "value": {
+              "__uuid__": "ab3e5323-8782-49e2-bfde-c07b73c5aa00"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "8cee61d6-1b67-47b1-b5c7-3009985442d9"
+            }
+          },
+          {
+            "frame": 1.125,
+            "value": {
+              "__uuid__": "9aa825b0-04f3-4a7b-8416-2a460401ef2f"
+            }
+          },
+          {
+            "frame": 1.25,
+            "value": {
+              "__uuid__": "92064b74-347e-420c-b818-bbd0268e4692"
+            }
+          },
+          {
+            "frame": 1.375,
+            "value": {
+              "__uuid__": "288fe243-e000-4dd1-9ae1-4a1ffb0d4289"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

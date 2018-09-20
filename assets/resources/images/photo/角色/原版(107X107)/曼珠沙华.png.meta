@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "54595eff-ace7-4971-9cd7-e41839bf6083",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "曼珠沙华": {
+      "ver": "1.0.3",
+      "uuid": "d9e6066e-e5ab-4432-ab1d-00ccafb3be10",
+      "rawTextureUuid": "54595eff-ace7-4971-9cd7-e41839bf6083",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 107,
+      "rawWidth": 107,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

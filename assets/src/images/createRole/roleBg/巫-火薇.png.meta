@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2ed1d20f-b6a8-4ac7-ac77-fafbab462905",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "巫-火薇": {
+      "ver": "1.0.3",
+      "uuid": "c2ece120-9cc5-4598-a4a9-8f9137faa156",
+      "rawTextureUuid": "2ed1d20f-b6a8-4ac7-ac77-fafbab462905",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": -48,
+      "trimX": 8,
+      "trimY": 96,
+      "width": 566,
+      "height": 411,
+      "rawWidth": 574,
+      "rawHeight": 507,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

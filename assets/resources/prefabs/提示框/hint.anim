@@ -1,0 +1,163 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hint",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.1,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "height": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.05,
+          "value": 10
+        },
+        {
+          "frame": 0.1,
+          "value": 20
+        },
+        {
+          "frame": 0.15,
+          "value": 30
+        },
+        {
+          "frame": 0.2,
+          "value": 40
+        },
+        {
+          "frame": 0.25,
+          "value": 50
+        },
+        {
+          "frame": 0.3,
+          "value": 60
+        },
+        {
+          "frame": 0.35,
+          "value": 70
+        },
+        {
+          "frame": 0.4,
+          "value": 80
+        },
+        {
+          "frame": 0.45,
+          "value": 80
+        },
+        {
+          "frame": 1.75,
+          "value": 80
+        },
+        {
+          "frame": 1.8,
+          "value": 70
+        },
+        {
+          "frame": 1.85,
+          "value": 60
+        },
+        {
+          "frame": 1.9,
+          "value": 50
+        },
+        {
+          "frame": 1.95,
+          "value": 40
+        },
+        {
+          "frame": 2,
+          "value": 30
+        },
+        {
+          "frame": 2.05,
+          "value": 20
+        },
+        {
+          "frame": 2.1,
+          "value": 0
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.05,
+          "value": 40
+        },
+        {
+          "frame": 0.1,
+          "value": 80
+        },
+        {
+          "frame": 0.15,
+          "value": 120
+        },
+        {
+          "frame": 0.2,
+          "value": 160
+        },
+        {
+          "frame": 0.25,
+          "value": 200
+        },
+        {
+          "frame": 0.3,
+          "value": 220
+        },
+        {
+          "frame": 0.35,
+          "value": 255
+        },
+        {
+          "frame": 0.4,
+          "value": 255
+        },
+        {
+          "frame": 0.45,
+          "value": 255
+        },
+        {
+          "frame": 1.75,
+          "value": 255
+        },
+        {
+          "frame": 1.8,
+          "value": 220
+        },
+        {
+          "frame": 1.85,
+          "value": 200
+        },
+        {
+          "frame": 1.9,
+          "value": 160
+        },
+        {
+          "frame": 1.95,
+          "value": 120
+        },
+        {
+          "frame": 2,
+          "value": 80
+        },
+        {
+          "frame": 2.05,
+          "value": 40
+        },
+        {
+          "frame": 2.1,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

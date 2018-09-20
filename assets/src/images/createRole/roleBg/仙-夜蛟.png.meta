@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9f11daef-dfa0-4f4a-8ac6-ebfac0a40db8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "仙-夜蛟": {
+      "ver": "1.0.3",
+      "uuid": "07886836-728a-4566-b56f-2a94105a674a",
+      "rawTextureUuid": "9f11daef-dfa0-4f4a-8ac6-ebfac0a40db8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 190,
+      "offsetY": -139,
+      "trimX": 380,
+      "trimY": 278,
+      "width": 380,
+      "height": 430,
+      "rawWidth": 760,
+      "rawHeight": 708,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

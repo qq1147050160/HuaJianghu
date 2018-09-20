@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "070864f7-aa3e-414c-b9fb-6a620338bcbd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "密罗-站立": {
+      "ver": "1.0.3",
+      "uuid": "263acd45-8189-4f09-9522-0c9af1bde597",
+      "rawTextureUuid": "070864f7-aa3e-414c-b9fb-6a620338bcbd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 2016,
+      "height": 286,
+      "rawWidth": 2018,
+      "rawHeight": 290,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

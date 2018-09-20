@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f5955f94-c07a-476a-813e-7746d62cffc8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "健康游戏忠告": {
+      "ver": "1.0.3",
+      "uuid": "8103e218-a12f-4c89-ae68-62ab6c567807",
+      "rawTextureUuid": "f5955f94-c07a-476a-813e-7746d62cffc8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 341,
+      "height": 242,
+      "rawWidth": 341,
+      "rawHeight": 242,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

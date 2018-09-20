@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d1f47b7f-aca4-4d3e-9b41-1e398c4dff38",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "仙-水玲珑": {
+      "ver": "1.0.3",
+      "uuid": "946edf6c-4f24-4593-8958-64252fb2ea11",
+      "rawTextureUuid": "d1f47b7f-aca4-4d3e-9b41-1e398c4dff38",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 270,
+      "offsetY": -139.5,
+      "trimX": 540,
+      "trimY": 279,
+      "width": 300,
+      "height": 550,
+      "rawWidth": 840,
+      "rawHeight": 829,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

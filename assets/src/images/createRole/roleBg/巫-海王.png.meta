@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "96fafa9f-9f9e-4601-b59d-7ab94700a98e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "巫-海王": {
+      "ver": "1.0.3",
+      "uuid": "264c881e-87f2-4a45-905b-e45720ddb85b",
+      "rawTextureUuid": "96fafa9f-9f9e-4601-b59d-7ab94700a98e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 246,
+      "offsetY": -165.5,
+      "trimX": 492,
+      "trimY": 331,
+      "width": 311,
+      "height": 464,
+      "rawWidth": 803,
+      "rawHeight": 795,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

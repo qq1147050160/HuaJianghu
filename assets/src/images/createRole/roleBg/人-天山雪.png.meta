@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cd1eb06f-f661-4983-931e-b84e462b815e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "人-天山雪": {
+      "ver": "1.0.3",
+      "uuid": "2339c91d-2d4a-4000-9ce9-7be9b6bcd379",
+      "rawTextureUuid": "cd1eb06f-f661-4983-931e-b84e462b815e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 154,
+      "offsetY": -129,
+      "trimX": 308,
+      "trimY": 258,
+      "width": 410,
+      "height": 431,
+      "rawWidth": 718,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
