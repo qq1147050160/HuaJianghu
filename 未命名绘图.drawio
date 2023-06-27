@@ -1,9 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T02:16:25.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" version="21.5.0" etag="Fp0yLV4CZJefUfzev9xb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T02:44:04.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="SCxRCmUWeHASMDftf4A0" version="21.5.0" type="github">
   <diagram name="第 1 页" id="h1CebJNE0fcFF4PwrelH">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="sourcePoint" />
+            <mxPoint x="240" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-7" value="战斗通知&lt;br&gt;battle_notice" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-9" value="客户端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-12" value="准备阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-9">
+          <mxGeometry x="5" y="30" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-21" value="显示战斗&lt;br&gt;生成战斗单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-9">
+          <mxGeometry x="5" y="130" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-27" value="选择指令阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-9">
+          <mxGeometry x="5" y="230" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TdP67Y4CIGFhq53-mP8U-9" source="TdP67Y4CIGFhq53-mP8U-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-39" value="播放战斗动画" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-9">
+          <mxGeometry x="5" y="330" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TdP67Y4CIGFhq53-mP8U-9" source="TdP67Y4CIGFhq53-mP8U-39" target="TdP67Y4CIGFhq53-mP8U-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-48" value="关闭战斗&lt;br&gt;提示战斗结果信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-9">
+          <mxGeometry x="5" y="450" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-10" value="服务器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="220" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-11" value="准备阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-10">
+          <mxGeometry x="20" y="30" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-15" value="初始化战斗流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-10">
+          <mxGeometry x="20" y="90" width="185" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-24" value="指令收集阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-10">
+          <mxGeometry x="20" y="230" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-36" value="战斗结果计算阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-10">
+          <mxGeometry x="17.5" y="330" width="185" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-46" value="战斗结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-10">
+          <mxGeometry x="17.5" y="470" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="190" as="sourcePoint" />
+            <mxPoint x="560" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-14" value="发起战斗&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;battle_request&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="240" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-20" value="通知进入战斗&lt;br&gt;ready_battle" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="290" as="sourcePoint" />
+            <mxPoint x="800" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-23" value="准备就绪&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;battle_ready&lt;br&gt;&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="340" as="sourcePoint" />
+            <mxPoint x="240" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-26" value="战斗倒计时&lt;br&gt;ready_countdown" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="390" as="sourcePoint" />
+            <mxPoint x="560" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-29" value="提交指令&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;battle_instruct&lt;br&gt;&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="470" as="sourcePoint" />
+            <mxPoint x="240" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-38" value="发送战斗结果&lt;br&gt;ready_result" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="580" as="sourcePoint" />
+            <mxPoint x="240" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-45" value="战斗结束&lt;br&gt;ready_finish" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TdP67Y4CIGFhq53-mP8U-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdP67Y4CIGFhq53-mP8U-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" target="TdP67Y4CIGFhq53-mP8U-46">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="800" y="290" as="sourcePoint" />
+            <mxPoint x="770" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
